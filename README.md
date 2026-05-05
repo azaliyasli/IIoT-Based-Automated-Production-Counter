@@ -63,4 +63,3 @@ The system draws a virtual vertical line in the center of the frame. It calculat
 
 ---
 *Note: This project is configured to use `broker.hivemq.com` on port `1883` by default. Ensure your network does not block this port, or switch to a mobile hotspot if you experience connection timeouts.*
-```
