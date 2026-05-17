@@ -31,7 +31,7 @@ It simulates a synthetic factory production line. It uses Computer Vision to det
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/visiontrack-iiot.git](https://github.com/yourusername/visiontrack-iiot.git)
+git clone [https://github.com/yourusername/IIoT-Based-Automated-Production-Counter.git](https://github.com/yourusername/IIoT-Based-Automated-Production-Counter.git)
 cd visiontrack-iiot
 ```
 
